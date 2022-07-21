@@ -33,7 +33,7 @@ The data gathered includes:
  The winner of the election was Diana DeGette. 
  
  ## Overview 
- Ovverall, the winner of the election was Diana DeGette with about 74% of the popular vote. 
+ Overall, the winner of the election was Diana DeGette with about 74% of the popular vote. 
  
  ## Summary 
  Three candidates were examined using election data number of votes. From the data, information about the total vote, votes in which county, the voter percentage and more was able to be pulled. This python script could be modified to use in other ways. If you wanted to look at votes by state, then you could switch out the counties for the state. You could also modify to add the total number of registered voters to find out what percentage of people actually did vote. 
